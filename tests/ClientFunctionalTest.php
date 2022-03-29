@@ -1,7 +1,7 @@
 <?php
 
-use Maknz\Slack\Client;
-use Maknz\Slack\Attachment;
+use Kolayik\Slack\Client;
+use Kolayik\Slack\Attachment;
 
 class ClientFunctionalTest extends PHPUnit_Framework_TestCase
 {
